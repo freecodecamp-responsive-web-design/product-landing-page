@@ -2,6 +2,8 @@
 
 This project is part of the **FreeCodeCamp** curriculum, where you'll learn how to create a professional **Product Landing Page** to showcase products or services.
 
+[Product Landing Page](https://freecodecamp-responsive-web-design.github.io/product-landing-page/)
+
 ## In this project, you will:
 - Build a responsive **landing page** using **HTML** and **CSS** to promote a product or service.
 - Structure the landing page with **header**, **main content**, and **footer** sections.
